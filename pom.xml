@@ -26,18 +26,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <distributionManagement>
-    <repository>
-        <id>iopex-release</id>
-        <name>puppet-client-2.example.com-releases</name>
-        <url>http://192.168.91.133:8081/artifactory/iopex-release</url>
-    </repository>
-	<snapshotRepository>
-        <id>iopex-snapshot</id>
-        <name>puppet-client-2.example.com-snapshots</name>
-        <url>http://192.168.91.133:8081/artifactory/iopex-snapshot</url>
-    </snapshotRepository>
-</distributionManagement>
+
 
  
  
